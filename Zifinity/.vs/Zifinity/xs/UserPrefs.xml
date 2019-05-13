@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{30EAE3AE-4793-FCC4-BA66-55B73C285ADB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/PlayerController2.cs" Line="5" Column="31" />
+      <File FileName="Assets/_Scripts/CompleteCameraController.cs" Line="41" Column="53" />
+      <File FileName="Assets/_Scripts/PlayerController.cs" Line="127" Column="122" />
+      <File FileName="Assets/_Scripts/CameraCollision.cs" Line="28" Column="59" />
+      <File FileName="Assets/_Scripts/CameraFollow.cs" Line="35" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zifinity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scripts" expanded="True">
+                <Node name="CameraFollow.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="605bc1d7-3e6e-4731-bcd8-26515285cf29" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
